@@ -4,4 +4,4 @@ p { color: white; }
 h1 { color: skyblue; }
 h3 { color: lightblue; }
 h2 { color: lightblue; }
-img {display:inline;}
+img {display:inline center; }
